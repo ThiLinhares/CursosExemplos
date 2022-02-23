@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Stefanini_Maratona_Final.zip (Unzipped Files)-20210925T192208Z-001&apos;" deleteContents="false" description="Delete resource &apos;Stefanini_Maratona_Final.zip (Unzipped Files)-20210925T192208Z-001&apos;" element1="/Stefanini_Maratona_Final.zip (Unzipped Files)-20210925T192208Z-001" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1633479635431"/>
+</session>
