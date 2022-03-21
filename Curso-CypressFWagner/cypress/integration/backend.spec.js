@@ -12,7 +12,7 @@ describe('Work with alerts', () => {
        cy.getToken('user', 'passwd') //command pa trazer o token
             .then(token => {
             cy.request({
-                url: 'https://barrigarest.wcaquino.me/contas',
+                url: 'https://www.facebook.com',
                 method: 'POST',
                 headers: {Authorization: 'JWT $(token)'},
                 body: {
